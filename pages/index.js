@@ -6,6 +6,8 @@ export default function Home() {
   return (
     <div>
       this is day 1
+
+      this is day 2
     </div>
   )
 }
